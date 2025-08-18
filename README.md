@@ -41,6 +41,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pw-5214&layout=compact&theme=tokyonight)
 ![Repos Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pw-5214&theme=tokyonight)
 
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=pw-5214&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Wavy Graph](https://github-readme-activity-graph.vercel.app/graph?username=pw-5214&theme=tokyo-night&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/pw-5214/pw-5214/output/github-contribution-grid-snake-dark.svg)
+![Heatmap](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pw-5214&theme=tokyonight)
+
+
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pw-5214&theme=tokyonight)
 
