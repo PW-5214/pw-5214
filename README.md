@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Wavhal</h1>
 <h3 align="center">A passionate AI/ML Engineer</h3>
 
-- 🌱 I'm currently pursuing a **B-Tech in Artificial Intelligence and Data Science** at **VPKBIET Barmati **  
+- 🌱 I'm currently pursuing a **B-Tech in Artificial Intelligence and Data Science** at **VPKBIET Barmati**  
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathmesh-wavhal-ab8170330/)  
 - 📫 Reach me at: **prathmeshwavhal17@gmail.com**  
 - ⚡ Fun fact: **I love to watch movies**  
