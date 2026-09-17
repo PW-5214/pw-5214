@@ -36,10 +36,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ---
-![pw-5214's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pw-5214&theme=tokyo-night)
-![pw-5214's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pw-5214&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pw-5214&layout=compact&theme=tokyonight)
-![Repos Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pw-5214&theme=tokyonight)
 
 
 
