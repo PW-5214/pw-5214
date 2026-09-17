@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-wavhal-ab8170330/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh5214/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshwavhal17@gmail.com)  
 
 ---
@@ -38,7 +38,3 @@
 ---
 
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pw-5214&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
